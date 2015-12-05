@@ -5,7 +5,7 @@
     "icons": {
       "128": "icons/128.png"
     },
-    "description": "将 Google CDN 替换为国内中科大的。",
+    "description": "将 Google CDN 替换为国内炎木的。",
     "background": {
         "scripts": ["js/background.js"]
     },
@@ -13,5 +13,5 @@
         "webRequest", "webRequestBlocking", "<all_urls>"
     ],
     "author": "https://github.com/justjavac",
-    "homepage_url": "https://github.com/justjavac/ReplaceGoogleCDN"
+    "homepage_url": "https://github.com/2947721120/squealing-wookie
 }
